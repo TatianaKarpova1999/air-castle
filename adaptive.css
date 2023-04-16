@@ -1,0 +1,22 @@
+ @media screen and (min-width: 375px) {
+    .nav-item {
+        font-size: 20px; 
+        margin-left: 20px;
+    }
+    .number {
+        font-size: 25px;
+    }
+    .mini-text {
+        font-size: 18px;
+    }
+    .numb {
+        margin-right: 40px;
+    }
+    .menu_block {
+    margin-left: 0px; 
+    }
+    .header_title {
+        position: relative;
+    }
+ }
+ 
